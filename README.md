@@ -1,3 +1,3 @@
 # restfullapi
-api for post weather
-https://stayrostsamadias.pythonanywhere.com/temp/data
+api for post sensor esp32-c3
+http://stayrostsamadias.pythonanywhere.com/
